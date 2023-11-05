@@ -7,4 +7,4 @@
 1.Установить Питон
 2.Установить зависимости
 
-#My super project
+#My new project
